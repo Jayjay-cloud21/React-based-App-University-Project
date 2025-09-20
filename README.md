@@ -1,15 +1,15 @@
 # React-based-App-University-Project
 TeachTeam – React-based University Project
 
-My teammate and I developed TeachTeam, a web application designed to streamline the process of lecturers hiring tutors for specific university courses.
+My teammate and I developed TeachTeam, a web application designed to streamline the process of lecturers hiring tutors or lab assistants for specific university courses.
 
 How it works:
 
 Lecturers can browse available courses listed in the system.
 
-For each course, lecturers can view applications from tutors and evaluate their credentials.
+For each course, lecturers can view applications from candidates and evaluate their credentials.
 
-Lecturers have the ability to hire tutors based on their preferences, course requirements, and tutor qualifications.
+Lecturers have the ability to hire candidates based on their preferences, course requirements, and qualifications.
 
 Technology Stack:
 
