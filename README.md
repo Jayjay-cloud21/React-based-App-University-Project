@@ -19,34 +19,42 @@ Designed the homepage users see before logging in.
 
 ![Index Page](./contributions/index.png)
 
+### 🔹 Candidate Dashboard
 Built the candidate dashboard displaying application status and available courses.
 
 ![Candidate Dashboard](./contributions/candidateDashboard.png)
 
+### 🔹 Profile Page
 Implemented the candidate profile page showing personal details and application history.
 
 ![Profile Page](./contributions/profile.png)
 
+### 🔹 Application Form
 Created the application form for candidates applying as lab assistants or tutors.
 
 ![Application Form](./contributions/applicationForm.png)
 
+### 🔹 Selected Candidates View
 Developed a view showing selected candidates per course.
 
 ![Selected Candidates](./contributions/selected.png)
 
+### 🔹 Filter & Search System
 Implemented search and filter functionality for candidate selection.
 
 ![Filter System](./contributions/filter.png)
 
+### 🔹 Admin Dashboard
 Built the admin dashboard for managing applications and system overview.
 
 ![Admin Dashboard](./contributions/adminDashboard.png)
 
+### 🔹 Course Management (Admin)
 Implemented course management functionality for admins to add/edit courses.
 
 ![Course Management](./contributions/courseManagement.png)
 
+### 🔹 ERD (Database Design)
 Helped design the relational database structure of this project.
 
 ![ERD](./contributions/ERD.png)
