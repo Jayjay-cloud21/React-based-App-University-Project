@@ -8,12 +8,12 @@ import { User } from  "./entity/User";
 
 export const AppDataSource = new DataSource({
   type: "mysql",
-  host: "209.38.26.237",
+  host: "127.0.0.1",
   port: 3306,
   /* Change to your own credentials */
-  username: "S4040610",
-  password: "PJ",
-  database: "S4040610",
+  username: "root",
+  password: "!PeejayajeeP2108",
+  database: "teachteam",
   // synchronize: true will automatically create database tables based on entity definitions
   // and update them when entity definitions change. This is useful during development
   // but should be disabled in production to prevent accidental data loss.
