@@ -49,7 +49,7 @@ Implemented course management functionality for admins to add/edit courses.
 
 Helped design the relational database structure of this project.
 
-![ERD](./erd.png)
+![ERD](./contributions/ERD.png)
 
 ## 🛠 Tech Stack
 
