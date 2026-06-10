@@ -1,32 +1,71 @@
 # React-based-App-University-Project
-TeachTeam – React-based University Project
+TeachTeam
 
-My teammate and I developed TeachTeam, a web application designed to streamline the process of lecturers hiring tutors or lab assistants for specific university courses.
+My teammate and I developed TeachTeam, a web application designed to streamline the process of lecturers hiring tutors or lab assistants for specific university courses with separate dashboards for users and administrators.
 
-How it works:
+## Key Features
 
-Lecturers can browse available courses listed in the system.
+- Candidate application system for tutor/lab assistant roles
+- Admin dashboard for course and user management and reports
+- Candidate filtering and selection workflow
+- Lecturer dashboard for selecting candidates
+- Role-based access (Admin / Candidate / Lecturer)
+- Relational database design supporting course applications
 
-For each course, lecturers can view applications from candidates and evaluate their credentials.
+## 🙋‍♂️ My Contributions
 
-Lecturers have the ability to hire candidates based on their preferences, course requirements, and qualifications.
+### 🔹 Index Page (Landing Page)
+Designed the homepage users see before logging in.
 
-Technology Stack:
+![Index Page](./contributions/index.png)
 
-Frontend: React (framework) with TypeScript for type safety and Chakra UI for responsive and modern styling.
+Built the candidate dashboard displaying application status and available courses.
 
-Backend: TypeORM with Node.js to manage server-side operations.
+![Candidate Dashboard](./contributions/candidateDashboard.png)
 
-Database: MySQL to store courses, tutor profiles, and hiring records.
+Implemented the candidate profile page showing personal details and application history.
 
-Other tools: Node.js package ecosystem to handle dependencies and streamline development.
+![Profile Page](./contributions/profile.png)
 
-Key Learning Outcomes:
+Created the application form for candidates applying as lab assistants or tutors.
 
-Built a full-stack web application integrating both frontend and backend technologies.
+![Application Form](./contributions/applicationForm.png)
 
-Gained hands-on experience with TypeScript and React for building scalable, maintainable UIs.
+Developed a view showing selected candidates per course.
 
-Designed relational database structures in MySQL and integrated them with TypeORM for backend logic.
+![Selected Candidates](./contributions/selected.png)
 
-Collaborated in a team environment, applying project planning and version control best practices.
+Implemented search and filter functionality for candidate selection.
+
+![Filter System](./contributions/filter.png)
+
+Built the admin dashboard for managing applications and system overview.
+
+![Admin Dashboard](./contributions/adminDashboard.png)
+
+Implemented course management functionality for admins to add/edit courses.
+
+![Course Management](./contributions/courseManagement.png)
+
+Helped design the relational database structure of this project.
+
+![ERD](./erd.png)
+
+## 🛠 Tech Stack
+
+**Frontend:**
+- React
+- Chakra UI
+
+**Backend:**
+- Node.js
+- Express
+- GraphQL
+- Apollo Server
+
+**Client Communication:**
+- Apollo Client
+
+**Database:**
+- MySQL
+
